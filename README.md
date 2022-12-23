@@ -1,2 +1,11 @@
-# hyperblog
-blog para practicar en git y github
+## descripcion en md
+
+*Prueba de diseño de README*
+
+- asdfasdfasdf
+- aa asdfasdf
+- fasda asdfasdf
+- faasdfasdf
+- sdfaasdf   asdf
+- asdasdfad asdf
+- fasdfasdf
